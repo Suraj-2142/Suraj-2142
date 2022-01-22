@@ -17,6 +17,8 @@ resource "aws_key_pair" "deployer" {
   key_name   = "Terrafor-Key-suraj"
   public_key = "SURAJ"
   Gir push for 22 Jan 2022
+  =
+  =
 //}*/
 
 resource "aws_instance" "Terra-Demo" {
