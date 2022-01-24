@@ -16,7 +16,9 @@ provider "aws" {
 resource "aws_key_pair" "deployer" {
   key_name   = "Terrafor-Key-suraj"
   public_key = "SURAJ"
-  Git push for 24 Jan 2022 Git push
+  Git push for 24 Jan 2022 Git push...data "" "name" {
+    
+  }
 //}*/
 
 resource "aws_instance" "Terra-Demo" {
