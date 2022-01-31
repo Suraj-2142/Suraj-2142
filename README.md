@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajinkya</h1>
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <h2> About Me <img src = "Images/DevOps.gif" width = 100px></h2>
