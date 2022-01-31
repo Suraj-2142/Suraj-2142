@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **AWS,Terraform, Ansilble**
+- 🌱 I’m currently learning **AWS,Terraform, Ansible**
 
 - 👯 I’m looking to collaborate on **DevOps OpenSource Projects, Tech Articles**
 
