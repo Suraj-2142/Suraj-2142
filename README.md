@@ -1,19 +1,15 @@
-# Suraj-Test
-Suraj/Test
+Hi 👋, I'm Suraj
 
-Demo_branch
-This branch is **Demo Branch** under the main branch **Suraj**
-Working on branching functionality.
+A passionate DevOps Engineer from India
+About Me 
+Github
 
-Thank you,
-Suraj B M
-22122021
-=======
-This is main branch SURAJ
+🔭 I’m currently working on DevOps Project
 
-Working on banches to check the functionality.
+🌱 I’m currently learning Terraform Ansible
 
-Thank you,
-Suraj B M
-22-12-2021
+👯 I’m looking to collaborate on DevOps OpenSource Projects, Tech Articles
 
+💬 Talk to me about AWS, DevOps, Automation, Freelancing Opportunites, Open Source
+
+📫 How to reach me melshankarers@gmail.com
