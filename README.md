@@ -3,7 +3,7 @@
 
 <h2> About Me <img src = "Images/DevOps.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="Images/Templatepic.png" />
+<img width="40%" align="right" alt="Github" src="Images/Templatepic.png" />
 
 - 🔭 I’m currently working on **AWS**
 
