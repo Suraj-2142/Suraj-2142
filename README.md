@@ -1,15 +1,19 @@
-Hi 👋, I'm Suraj
+<h1 align="center">Hi 👋, I'm Ajinkya</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
-A passionate DevOps Engineer from India
-About Me 
-Github
+<h2> About Me <img src = "Images/DevOps.gif" width = 100px></h2>
 
-🔭 I’m currently working on DevOps Project
+<img width="55%" align="right" alt="Github" src="Images/git-header.svg" />
 
-🌱 I’m currently learning Terraform Ansible
+- 🔭 I’m currently working on **AWS**
 
-👯 I’m looking to collaborate on DevOps OpenSource Projects, Tech Articles
+- 🌱 I’m currently learning **AWS,Terraform, Ansilble**
 
-💬 Talk to me about AWS, DevOps, Automation, Freelancing Opportunites, Open Source
+- 👯 I’m looking to collaborate on **DevOps OpenSource Projects, Tech Articles**
 
-📫 How to reach me melshankarers@gmail.com
+- 💬 Talk to me about **AWS, DevOps, Automation, Freelancing Opportunites, Open Source**
+
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AtiwadkarAjinkya?tab=repositories)
+
+- 📫 How to reach me **melshanakares@gmail.com**
+
