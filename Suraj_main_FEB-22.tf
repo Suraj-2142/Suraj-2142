@@ -19,7 +19,7 @@ resource "aws_key_pair" "deployer" {
   Git push for 11
   
   
-  14 VALENTINES DAY WEEK FEB 2022 Git push GIT "" "name" {
+  14 VALENTINES DAY WEEKS FEB 2022 Git push GIT "" "name" {
     
   }
 //}*/
