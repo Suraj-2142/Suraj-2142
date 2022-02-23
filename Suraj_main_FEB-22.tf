@@ -19,7 +19,7 @@ resource "aws_key_pair" "deployer" {
   Git push for 11
   
   
-  17 FEB 2022 Git push GIT "" "name" {
+  23 FEB 2022 Git push GIT "" "name" {
     
   }
 //}*/
