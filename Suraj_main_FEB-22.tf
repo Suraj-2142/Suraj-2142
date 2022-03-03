@@ -19,7 +19,7 @@ resource "aws_key_pair" "deployer" {
   Git push for 11
   
   
-  0203
+  03
    MARCH 22  Git push GIT "" "name" {
     
   }
