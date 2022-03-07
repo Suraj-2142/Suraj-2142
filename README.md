@@ -13,7 +13,7 @@
 
 - 💬 Talk to me about **AWS, DevOps, Automation, Freelancing Opportunites, Open Source**
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Suraj-2142?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Suraj-2142?tab=repositories" [GitHub Repositories](https://github.com/Suraj-2142?tab=repositories)
 
 - 📫 How to reach me **melshankares@gmail.com**
 
