@@ -1,7 +1,7 @@
 <h1 align="center"?<h1 style="font-family:halo hand letter">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<h2> About Me <img src = "Images/DevOps.gif" width = 500px></h2>
+<h2> About Me <img src = "Images/DevOps.gif" width = 150px></h2>
 
 <img width="40%" align="right" alt="Github" src="Images/Templatepic.png" />
 
