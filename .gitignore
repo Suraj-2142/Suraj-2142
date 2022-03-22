@@ -86,3 +86,4 @@ lint/tmp/
 .terraform
 .terraform.lock.hcl
 .terraform*
+.a
