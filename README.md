@@ -16,6 +16,4 @@
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Suraj-2142?tab=repositories)4
 
 - 📫 How to reach me **melshankares@gmail.com**
--
--
 
